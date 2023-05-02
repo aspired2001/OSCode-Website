@@ -1,3 +1,6 @@
+Hi Guys I am Wajahat Ali 
+This Website is the placements preparation club website and I have contributed in its development as a ReactJs developer
+
 # Next.js with TypeScript example
 
 ## How to use
